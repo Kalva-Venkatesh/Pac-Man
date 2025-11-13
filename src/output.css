@@ -262,7 +262,7 @@
     }
   }
   .rounded-full {
-    border-radius: calc(infinity * 1px);
+    border-radius: calc(9999 * 1px);
   }
   .border {
     border-style: var(--tw-border-style);
